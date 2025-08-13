@@ -23,8 +23,8 @@ Ele é dividido em duas partes:
 - [cors](https://www.npmjs.com/package/cors) — Controle de requisições
 
 **Dependências Backend:**
-```json
-"@prisma/client": "^6.14.0",
+json
+@prisma/client": "^6.14.0",
 "bcrypt": "^6.0.0",
 "cors": "^2.8.5",
 "express": "^5.1.0",
